@@ -12,8 +12,8 @@ Git cheat sheet
 Resources
 ---------------------------------------
 
-[Interactive tutorial](https://try.github.io/levels/1/challenges/1)
-[Git reference book](https://git-scm.com/book/en/v2)
+- [Interactive tutorial](https://try.github.io/levels/1/challenges/1)
+- [Git reference book](https://git-scm.com/book/en/v2)
 
 
 Installation
@@ -227,6 +227,7 @@ Fetch data from remote server and merge with working branch:
 
 
 Deploy changes to server: 
+
 `git push remote_name branch_name`
 
 Example: `git push -u origin master`
